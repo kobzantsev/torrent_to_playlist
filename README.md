@@ -8,7 +8,7 @@
 
 Нажмите на кнопку Добавить плагин или Установить по ссылке.
 
-Вставьте прямую ссылку на .js файл https://raw.githubusercontent.com/kobzantsev/torrent_to_playlist/refs/heads/main/torrent_to_playlist.js
+Вставьте прямую ссылку на .js файл https://raw.githubusercontent.com/kobzantsev/torrent_to_playlist/main/torrent_to_playlist.js
 
 Подтвердите установку, нажав ОК или Установить.
 
